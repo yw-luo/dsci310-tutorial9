@@ -1,1 +1,5 @@
 /.quarto/
+
+# Ignore rendered Quarto outputs
+docs/
+_site/
